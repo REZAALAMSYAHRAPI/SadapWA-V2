@@ -28,7 +28,7 @@ echo
 echo $i"Seriusan!?"
 read -p " [y/n] " pil
 echo
-echo $i"GUA TANYAIN SEKALI LAGI! BENERAN!???"
+echo $i"GUA TANYAIN SEKALI LAGI WOY!???"
 read -p " [y/n] " pil
 echo
 echo
